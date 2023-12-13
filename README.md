@@ -1,4 +1,4 @@
-![Screenshot_1702440706](https://github.com/adhilfouzi/camera_app/assets/141894607/804ae9be-9e8b-4985-a587-fa8357369527)# camera_app
+# camera_app
 
 "A new Flutter project."
 
